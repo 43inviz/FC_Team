@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_FC\bin\Debug\HW_FC.exe.config
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_FC\bin\Debug\HW_FC.exe
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_FC\bin\Debug\HW_FC.pdb
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_FC\obj\Debug\HW_FC.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_FC\obj\Debug\HW_FC.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_FC\obj\Debug\HW_FC.exe
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_FC\obj\Debug\HW_FC.pdb
